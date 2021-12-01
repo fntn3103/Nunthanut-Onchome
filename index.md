@@ -1,10 +1,21 @@
-## Welcome to GitHub Pages
+## NUNTHANUT ONCHOME
+Nickname : Fai
+Birthday : 31 March 2003
+Ages : 18
 
-You can use the [editor on GitHub](https://github.com/fntn3103/Nunthanut-Onchome/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## CONTACT
+Address : 191 Maleewan Village  Soi Rangsit-Nakhon Nayok 27  Tambon Prachathipat, Amphoe Thanyaburi, Pathum Thani Province 12130
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Email : fai7215@gmail.com
 
-### Markdown
+Phone : 0881234445
+
+## EDUCATION
+2014-2021 : Studied at the middle and high school levels Science-Mathematics-Technology at Nawamintharachinuthit Horwang Nonthaburi School
+
+2021-current : Studying at the Faculty of Interdisciplinary College  Data Science and Innovation
+
+## SKILLS
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
