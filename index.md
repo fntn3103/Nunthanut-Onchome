@@ -3,6 +3,7 @@ Nickname : Fai
 Birthday : 31 March 2003
 Ages : 18
 
+
 ## CONTACT
 Address : 191 Maleewan Village  Soi Rangsit-Nakhon Nayok 27  Tambon Prachathipat, Amphoe Thanyaburi, Pathum Thani Province 12130
 
@@ -17,9 +18,7 @@ Phone : 0881234445
 
 ## SKILLS
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
 Syntax highlighted code block
 
 # Header 1
